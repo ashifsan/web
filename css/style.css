@@ -5050,6 +5050,10 @@ hr.border-2 {
     .footer {
         padding: 60px 0;
     }
+    .slider .owl-item, .slider-fade .owl-item {
+        height: 120vh;
+        position: relative;
+    }
     .text-left {
         text-align: center;
     }
