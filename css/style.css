@@ -5039,7 +5039,7 @@ hr.border-2 {
         width: 330px;
     }
     .slider .owl-item, .slider-fade .owl-item {
-        height: 110vh;
+        height: 120vh;
         position: relative;
     }
 }
