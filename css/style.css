@@ -499,7 +499,7 @@ blockquote cite:before {
     font-weight: 300;
     color: #272727;
     text-transform: uppercase;
-    letter-spacing: 4px;
+    letter-spacing: 2.5px;
     margin: 5px 5px;
     -webkit-transition: all .4s;
     transition: all .4s;
