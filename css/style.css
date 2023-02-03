@@ -310,7 +310,14 @@ blockquote cite:before {
     border-color:inherit;
     color: #b19777;
 }
-
+ul.list-unstyled li {
+    display: flex;
+    align-items: center;
+    padding-top: 5px;
+}
+ul.list-unstyled li svg{
+margin-right: 8px;
+}
 
 .o-hidden {
     overflow: hidden;
