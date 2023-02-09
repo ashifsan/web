@@ -3931,7 +3931,7 @@ hr.border-2 {
     z-index: 10000;
     top: 0;
     right: 0;
-    bottom: 0;
+    bottom: 30rem;
     left: 0;
     display: flex;
     transition: .5s;
